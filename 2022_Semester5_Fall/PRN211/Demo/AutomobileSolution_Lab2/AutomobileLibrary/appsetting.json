@@ -1,0 +1,6 @@
+
+{
+  "ConnectionString": {
+    "MyStockDB" :  "Server = (local); uid = sa; pwd = 123; database = "MyStock"
+  }
+}

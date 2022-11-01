@@ -1,6 +1,6 @@
 ﻿namespace AutomobileWinApp
 {
-    partial class Form1
+    partial class frmCarManagement
     {
         /// <summary>
         ///  Required designer variable.

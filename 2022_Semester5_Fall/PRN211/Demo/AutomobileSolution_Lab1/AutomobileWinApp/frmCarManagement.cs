@@ -1,8 +1,8 @@
 namespace AutomobileWinApp
 {
-    public partial class Form1 : Form
+    public partial class frmCarManagement : Form
     {
-        public Form1()
+        public frmCarManagement()
         {
             InitializeComponent();
         }
