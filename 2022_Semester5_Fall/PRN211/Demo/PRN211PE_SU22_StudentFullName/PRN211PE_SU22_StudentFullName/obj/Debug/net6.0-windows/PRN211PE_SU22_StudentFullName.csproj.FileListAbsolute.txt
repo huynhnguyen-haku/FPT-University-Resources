@@ -1,0 +1,1 @@
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\Demo\PRN211PE_SU22_StudentFullName\PRN211PE_SU22_StudentFullName\obj\Debug\net6.0-windows\PRN211PE_SU22_StudentFullName.GeneratedMSBuildEditorConfig.editorconfig

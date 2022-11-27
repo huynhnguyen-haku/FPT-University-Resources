@@ -1,0 +1,14 @@
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\FStoreAppLibrary.deps.json
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\FStoreAppLibrary.runtimeconfig.json
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\FStoreAppLibrary.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\FStoreAppLibrary.pdb
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.csproj.AssemblyReference.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.AssemblyInfo.cs
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\refint\FStoreAppLibrary.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.pdb
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\FStoreAppLibrary.genruntimeconfig.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\ref\FStoreAppLibrary.dll

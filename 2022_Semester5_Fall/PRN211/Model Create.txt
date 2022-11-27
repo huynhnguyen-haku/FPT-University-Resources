@@ -1,0 +1,24 @@
+Tạo Model:
+
+
+			dotnet ef dbcontext scaffold "server =(local); database = PRN_Sum22_B1; uid=sa; pwd=123; Encrypt=False;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+
+Thay đổi thuộc tính bên trong:
+
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("JobManagementDB"));
+            }
+        }
+
+Dành cho con chó Json:
+
+{
+  "ConnectionStrings": {
+    "DbConnection":  "Server=(local); uid=sa; pwd=123; database=PRN_Sum22_B1; Encrypt=false"
+  }
+}
+
+Cài đặt các packet như: 

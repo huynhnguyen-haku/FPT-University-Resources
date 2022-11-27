@@ -1,0 +1,116 @@
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.exe
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.deps.json
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.runtimeconfig.json
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.pdb
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.AssemblyReference.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmLogin.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmMain.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmMember.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmMemberDetail.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmOrder.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmOrderDetail.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmOrderItem.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmProductDetail.resources
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.GenerateResource.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.AssemblyInfoInputs.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.AssemblyInfo.cs
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.CopyComplete
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\refint\SaleWinApps.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.pdb
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.genruntimeconfig.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\ref\SaleWinApps.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.exe
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.deps.json
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.runtimeconfig.json
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\SaleWinApps.pdb
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.AssemblyReference.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmLogin.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmMain.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmMember.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmMemberDetail.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmOrder.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmOrderDetail.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmOrderItem.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmProduct.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmProductDetail.resources
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.GenerateResource.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.AssemblyInfoInputs.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.AssemblyInfo.cs
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.csproj.CopyComplete
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\refint\SaleWinApps.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.pdb
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\SaleWinApps.genruntimeconfig.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\WinFormsApp1\obj\Debug\net6.0-windows\ref\SaleWinApps.dll

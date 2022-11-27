@@ -1,0 +1,28 @@
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Huynh Nguyen\Downloads\PRN211-Assignment02-main\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\PRN211-Assignment02-main\FStoreAppLibrary\obj\Debug\net6.0\ref\BusinessObject.dll

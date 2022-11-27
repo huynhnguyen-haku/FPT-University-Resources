@@ -1,0 +1,5 @@
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\Demo\PE_TEST_NGUYEN\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\Demo\PE_TEST_NGUYEN\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\Demo\PE_TEST_NGUYEN\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\Demo\PE_TEST_NGUYEN\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\Demo\PE_TEST_NGUYEN\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache

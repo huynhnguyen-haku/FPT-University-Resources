@@ -1,0 +1,16 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SaleWinApps
+build_property.ProjectDir = C:\Users\Huynh Nguyen\Documents\FPT University\New folder\FPT-University-Resources\2022_Semester5_Fall\PRN211\Assignment02_SE1608_HuynhHoangKhoiNguyen\WinFormsApp1\

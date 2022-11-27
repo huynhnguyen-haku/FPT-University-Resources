@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\New folder\\FPT-University-Resources\\2022_Semester5_Fall\\PRN211\\Demo\\PRN211_PE_FINAL\\PRN211_PE_FINAL\\Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\New folder\\FPT-University-Resources\\2022_Semester5_Fall\\PRN211\\Demo\\PRN211_PE_FINAL\\PRN211_PE_FINAL\\Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\New folder\\FPT-University-Resources\\2022_Semester5_Fall\\PRN211\\Demo\\PRN211_PE_FINAL\\PRN211_PE_FINAL\\Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\New folder\\FPT-University-Resources\\2022_Semester5_Fall\\PRN211\\Demo\\PRN211_PE_FINAL\\PRN211_PE_FINAL\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\Huynh Nguyen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\New folder\\FPT-University-Resources\\2022_Semester5_Fall\\PRN211\\Demo\\PRN211_PE_FINAL\\PRN211_PE_FINAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Huynh Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
