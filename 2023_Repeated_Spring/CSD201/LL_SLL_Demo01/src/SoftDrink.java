@@ -1,3 +1,4 @@
+
 public class SoftDrink implements Comparable<SoftDrink> {
 
     String productLine;
@@ -39,7 +40,7 @@ public class SoftDrink implements Comparable<SoftDrink> {
 
     // Covert data of the soft drink to String
     @Override
-    public String toString(){
-        return productLine + "," + company + "," + volume + "," + price;
+    public String toString() {
+        return productLine + ", " + company + ", " + volume + ", " + price;
     }
 }
